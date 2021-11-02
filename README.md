@@ -1,2 +1,3 @@
-# datasets
-datasets for AI classes
+# GBC Datasets
+
+Datasets for machine learning & artificial intelligence classes @ GBC.
